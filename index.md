@@ -13,6 +13,9 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 <center><img src="assets/img/fraud detection.jpg"></center>
 
 
+
+
+
 ## Stock Market Price predicter
 
 This project is a machine learning based Stock Price predictor model. The user can give it any company's stock from any Index like NASDAQ, NSE,etc or any type of data i.e 1 minute, 5 minute, 1 hour, 4 hour, daily , weekly, monthly, quarterly and annually also. 
