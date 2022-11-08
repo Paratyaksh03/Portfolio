@@ -1,12 +1,10 @@
 ---
 # Data Science Portfolio
 ---
-[LinkedIn Profile](https://www.linkedin.com/in/paratyaksh-singh/)
 
+# Machine Learning Projects
 
-## Machine Learning Projects
-
-# Fraud Detection Project
+## Fraud Detection Project
 
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
@@ -15,7 +13,7 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 <center><img src="assets/img/fraud detection.jpg"></center>
 
 
-# Stock Market Price predicter
+## Stock Market Price predicter
 
 This project is a machine learning based Stock Price predictor model. The user can give it any company's stock from any Index like NASDAQ, NSE,etc or any type of data i.e 1 minute, 5 minute, 1 hour, 4 hour, daily , weekly, monthly, quarterly and annually also. 
 Be careful to change the READ_CSV line according to your Dataset and add certain required columns, if not present by removing "USE_COLS" and replacing it with a list of names of your columns like LIST=["Date","Time","Open", "High"...and so on] as"NAMES=LIST" or any method as you like. For AI/ML based predictors, mainly three indicators are used for prediction: OHLC average (average of Open, High, Low and Closing Prices), HLC average (average of High, Low and Closing Prices) and Closing price, In this project, OHLC average has been used.
