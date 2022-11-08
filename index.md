@@ -27,9 +27,6 @@ Be careful to change the READ_CSV line according to your Dataset and add certain
 
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+For any advice or consultation regarding business problems or career paths, please feel free to write at - Paratyaksh.singh@gmail.com, Paratyakshs2021@iimbg.ac.in.
 
-```
-The final element.
 ```
