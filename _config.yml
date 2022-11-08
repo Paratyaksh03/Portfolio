@@ -1,6 +1,23 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title:  <p align="center"> Paratyaksh Singh </p>
+logo: /assets/img/Profile Pic.jpeg
+
+description:
+  <p align="center">
+  <a href="assets/img/Paratyaksh_Singh-2.pdf>Resume</a> |
+  <a href="https://www.linkedin.com/in/paratyaksh-singh/">LinkedIn</a> |
+  <a href="https://github.com/Paratyaksh03/">GitHub</a>
+  
+  <br>   
+  I'm learning Data Science, Machine learning & AI Strategy.
+  I would like to work in AI-ML based product development in E-Commerce companies
+  Working with BYJU'S as an MT - Business Strategy and previously with Quess Corp Ltd as an Assistant Manager.
+  Having a workex of 2 years
+  
+  <br>
+  </p>
+
+
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
