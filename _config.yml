@@ -11,4 +11,6 @@ description:
   <br>
   </p>
 
+github:
+  is_project_page: false
 theme: jekyll-theme-minimal
